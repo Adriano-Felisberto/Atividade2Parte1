@@ -105,3 +105,4 @@ console.log(`olá, seja bem vindo ${nome} espero que esteja gostando de JS`)
 
 console.log("olá seja bem vindo " + nome + "espero que esteja gostando de JS")
 ```
+[Link dos códigos acima](https://github.com/Adriano-Felisberto/Atividade2Parte1/tree/Adriano-Felisberto/I.A-ECIT/src)
